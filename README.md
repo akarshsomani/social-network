@@ -1,4 +1,4 @@
-# All the programs are written in python 3 with the help of pakage networkx.
+# All the programs are written in python 3 with the help of package networkx.
 
 Some of the implementation of theorie of social networking are here.
 
