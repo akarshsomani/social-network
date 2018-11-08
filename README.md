@@ -1,6 +1,6 @@
 # All the programs are written in python 3 with the help of package networkx.
 
-Some of the implementation of theorie of social networking are here.
+Some of the implementation of theory of social networking are here.
 
 Week2- Given some nodes add edges randomly until it is connected.
 
