@@ -16,4 +16,6 @@ Week7- using property of cascading that if we start from a key node then most of
 
 Week9- barabassi elbert model and erdos reny model.
 
+Week12- K-shell decomposition and small world network.(we can connect any two person in this world with just 6 hops at max).
+
 The blank weeks denotes the learning period.
