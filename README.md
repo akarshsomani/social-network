@@ -2,21 +2,21 @@
 
 Some of the implementation of theory of social networking are here.
 
-Week2- Given some nodes add edges randomly until it is connected.
+1- Given some nodes add edges randomly until it is connected.
 
-Week3- girwan's algorithm and brute force.
+2- girwan's algorithm and brute force.
 
-Week4- fatman evolutionary model.
+3- fatman evolutionary model.
 
-Week5- schekking model implimentation and working with signed network with edges with either + or -.
+4- schekking model implimentation and working with signed network with edges with either + or -.
 
-Week6- point distribution method and random walk method(for ranking most popular node if we start wisiting nodes randomly in a network).
+5- point distribution method and random walk method(for ranking most popular node if we start wisiting nodes randomly in a network).
 
-Week7- using property of cascading that if we start from a key node then most of the other nodes will be in influence. here comes the concept of social influence.
+6- using property of cascading that if we start from a key node then most of the other nodes will be in influence. here comes the concept of social influence.
 
-Week9- barabassi elbert model and erdos reny model.
+7- barabassi elbert model and erdos reny model.
 
-Week12- K-shell decomposition and small world network.(we can connect any two person in this world with just 6 hops at max).
+8- K-shell decomposition and small world network.(we can connect any two person in this world with just 6 hops at max).
 
 The blank weeks denotes the learning period.
 
